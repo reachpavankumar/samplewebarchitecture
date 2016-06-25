@@ -1,0 +1,1 @@
+This is the Sample architecture defined for any Java Web Application
